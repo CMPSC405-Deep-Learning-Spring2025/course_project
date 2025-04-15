@@ -110,7 +110,7 @@ The presentation component will be evaluated separate from the project grade and
 
 This project follows contract-based grading. To receive an A, you must:
 
-- Complete all requirements in the four main categories under [Project Requirements](#project-requirements)
+- Complete all requirements in the five main categories under [Project Requirements](#project-requirements)
 
 Each category that is incomplete will warrant a grade reduction. 
 
