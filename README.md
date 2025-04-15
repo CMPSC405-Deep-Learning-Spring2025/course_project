@@ -95,14 +95,16 @@ During the final exam period, you will deliver a 10-minute presentation of your 
 
 3. **Deployed Model**: Access to your deployed model with documentation on how to use it
 
-## Final Exam Deliverable (5% of the course grade)
+## Presentation
 
-1. **Presentation**: A 10-minute presentation covering:
+A 10-minute presentation covering:
    - Project overview and motivation
    - Approach and methodology
    - Key results and insights
    - Demo of deployed model
    - Ethical considerations and limitations
+
+The presentation component will be evaluated separate from the project grade and instead will be a part of your final exam, amounting to 5% of the course grade.
 
 ## Evaluation Criteria
 
